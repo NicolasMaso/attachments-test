@@ -13,10 +13,13 @@ attachments-test/
 
 ## 🖼️ Imagens Disponíveis
 
-| Arquivo                      | Descrição              | URL Raw                                                                                                 |
-| ---------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------- |
-| `comprovante-falso.png`      | Comprovante falso      | `https://raw.githubusercontent.com/NicolasMaso/attachments-test/main/images/comprovante-falso.png`      |
-| `comprovante-verdadeiro.png` | Comprovante verdadeiro | `https://raw.githubusercontent.com/NicolasMaso/attachments-test/main/images/comprovante-verdadeiro.png` |
+| Arquivo                         | Descrição                 | URL Raw                                                                                                    |
+| ------------------------------- | ------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| `comprovante-bradesco.png`      | Comprovante Bradesco      | `https://raw.githubusercontent.com/NicolasMaso/attachments-test/main/images/comprovante-bradesco.png`      |
+| `comprovante-falso.png`         | Comprovante falso         | `https://raw.githubusercontent.com/NicolasMaso/attachments-test/main/images/comprovante-falso.png`         |
+| `comprovante-nubank.jpeg`       | Comprovante Nubank        | `https://raw.githubusercontent.com/NicolasMaso/attachments-test/main/images/comprovante-nubank.jpeg`       |
+| `print-statement-circulado.jpg` | Print statement circulado | `https://raw.githubusercontent.com/NicolasMaso/attachments-test/main/images/print-statement-circulado.jpg` |
+| `print-statement.jpg`           | Print statement           | `https://raw.githubusercontent.com/NicolasMaso/attachments-test/main/images/print-statement.jpg`           |
 
 ## 🔊 Áudios Disponíveis
 
@@ -26,10 +29,10 @@ attachments-test/
 
 ## 📄 PDFs Disponíveis
 
-| Arquivo                      | Descrição              | URL Raw                                                                                               |
-| ---------------------------- | ---------------------- | ----------------------------------------------------------------------------------------------------- |
-| `comprovante-falso.pdf`      | Comprovante falso      | `https://raw.githubusercontent.com/NicolasMaso/attachments-test/main/pdfs/comprovante-falso.pdf`      |
-| `comprovante-verdadeiro.pdf` | Comprovante verdadeiro | `https://raw.githubusercontent.com/NicolasMaso/attachments-test/main/pdfs/comprovante-verdadeiro.pdf` |
+| Arquivo                    | Descrição            | URL Raw                                                                                             |
+| -------------------------- | -------------------- | --------------------------------------------------------------------------------------------------- |
+| `comprovante-falso.pdf`    | Comprovante falso    | `https://raw.githubusercontent.com/NicolasMaso/attachments-test/main/pdfs/comprovante-falso.pdf`    |
+| `comprovante-bradesco.pdf` | Comprovante Bradesco | `https://raw.githubusercontent.com/NicolasMaso/attachments-test/main/pdfs/comprovante-bradesco.pdf` |
 
 ## 🚀 Como Usar
 
